@@ -29,7 +29,6 @@ __Brigham Young University-Idaho__, Rexburg, Idaho
 __Category Partners__, Rexburg, Idaho
 
 - Explored large data to find inconsistencies to avoid sending out unclean data to clients.
-
 - Used R to clean large survey datasets and extract meaningful insights for clients.
 
 `January 2021 – April 2021`
@@ -61,11 +60,10 @@ __Brigham Young University-Idaho__, Intermediate Statistics Regression Analysis 
 __LDS Missionary__, Bentonville, Arkansas
 
 - Created lesson plans to guide people on their learning with the church using church resources.
-
 - Served at different food pantries throughout Arkansas and Missouri for those in need.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
